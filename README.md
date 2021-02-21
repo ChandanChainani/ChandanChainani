@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Chandan Chainani 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&label=ChandanChainani&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchainani1/)](https://www.linkedin.com/in/chandanchainani1/)
+[![Linkedin Badge](https://img.shields.io/badge/-ChandanChainani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchainani1/)](https://www.linkedin.com/in/chandanchainani1/)
 [![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow&link=https://stackoverflow.com/users/14475852/chandan?tab=profile)](https://stackoverflow.com/users/14475852/chandan?tab=profile)
 [![Email Badge](https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chainanichan@gmail.com)](mailto:chainanichan@gmail.com)
 
