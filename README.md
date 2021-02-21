@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Chandan Chainani 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchainani1/)](https://www.linkedin.com/in/chandanchainani1/)
-[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow)](https://stackoverflow.com/users/14475852/chandan?tab=profile)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&label=ChandanChainani&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchainani1/)](https://www.linkedin.com/in/chandanchainani1/)
+[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow&link=https://stackoverflow.com/users/14475852/chandan?tab=profile)](https://stackoverflow.com/users/14475852/chandan?tab=profile)
 [![Email Badge](https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chainanichan@gmail.com)](mailto:chainanichan@gmail.com)
 
 ### Languages and Tools:
@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 [<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>](https://flask.palletsprojects.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>](https://www.ruby-lang.org/en/)
 [<img src="https://rubyonrails.org/images/rails-logo.svg" alt="Ruby on Rails" width="40" height="40"/>](https://rubyonrails.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>](https://www.rust-lang.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>](https://golang.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>](https://www.rust-lang.org)
 [<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>](https://www.typescriptlang.org/)
