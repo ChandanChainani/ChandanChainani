@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ### Hi there, I'm Chandan Chainani 👋
 
--->
-
+### How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-ChandanChainani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchainani1/)](https://www.linkedin.com/in/chandanchainani1/)
-[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow&link=https://stackoverflow.com/users/14475852/chandan?tab=profile)](https://stackoverflow.com/users/14475852/chandan?tab=profile)
 [![Email Badge](https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chainanichan@gmail.com)](mailto:chainanichan@gmail.com)
+[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow&link=https://stackoverflow.com/users/14475852/chandan?tab=profile)](https://stackoverflow.com/users/14475852/chandan?tab=profile)
+
+
 
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
@@ -47,8 +49,6 @@ Here are some ideas to get you started:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>](https://www.postgresql.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>](https://www.mongodb.com/)
-
----
 
 
 <img align="left" alt="Chandan Chainani Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChandanChainani&show_icons=true&hide_border=true" />
