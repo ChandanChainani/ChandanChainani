@@ -23,7 +23,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanchainani&show_icons=true&locale=en&layout=compact" alt="chandanchainani" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en" alt="chandanchainani" width="49%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en" alt="chandanchainani" style="width: 42% !important;" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchainani&" alt="chandanchainani" /></p>
