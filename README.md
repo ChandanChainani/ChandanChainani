@@ -13,7 +13,7 @@
 -->
 <a href="https://www.linkedin.com/in/chandanchainani1/" target="blank"><img align="center" src="https://img.shields.io/badge/-ChandanChainani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/chandanchainani1/" /></a>
 <a href="mailto:chainanichan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="chainanichan@gmail.com" /></a>
-<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" alt="https://stackoverflow.com/users/14475852/chandan" src="https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=stackoverflow&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" alt="https://stackoverflow.com/users/14475852/chandan" src="https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverflow&logo=stackoverflow"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
