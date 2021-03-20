@@ -11,9 +11,9 @@
 <a href="https://linkedin.com/in/chandanchainani1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chandanchainani1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14475852" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14475852" height="30" width="40" /></a>
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-ChandanChainani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanchainani1/)](https://www.linkedin.com/in/chandanchainani1/)
-[![Email Badge](https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chainanichan@gmail.com)](mailto:chainanichan@gmail.com)
-[![StackOverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow&link=https://stackoverflow.com/users/14475852/chandan?tab=profile)](https://stackoverflow.com/users/14475852/chandan?tab=profile)
+<a href="https://www.linkedin.com/in/chandanchainani1/" target="blank"><img align="center" src="https://img.shields.io/badge/-ChandanChainani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/chandanchainani1/" height="30" width="40" /></a>
+<a href="mailto:chainanichan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="chainanichan@gmail.com" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" src="https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverFlow&logo=stackoverflow" alt="https://stackoverflow.com/users/14475852/chandan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,10 +21,6 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanchainani&show_icons=true&locale=en&layout=compact" alt="chandanchainani" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en" alt="chandanchainani" />
 </p>
-
-<!--
-<p>&nbsp;</p>
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en" alt="chandanchainani" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchainani&" alt="chandanchainani" /></p>
