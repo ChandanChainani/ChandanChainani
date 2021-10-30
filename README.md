@@ -54,7 +54,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanchainani&show_icons=true&locale=en&layout=compact" alt="chandanchainani" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchainani&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact" alt="chandanchainani" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42" alt="chandanchainani" /></p>
