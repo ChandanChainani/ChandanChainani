@@ -57,7 +57,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchainani&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chandanchainani" />
 </p>
 
-<p>&nbsp;<img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" /></p>
+<p>&nbsp;<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" /></a></p>
 <p>&nbsp;<img align="center" width="354" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14475852&theme=dark" alt="chandanchainani" /></p>
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchainani&" alt="chandanchainani" /></p>
