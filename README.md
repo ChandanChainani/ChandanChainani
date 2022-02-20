@@ -61,7 +61,7 @@
 
 <p>&nbsp;<img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" /></p>
 <p>
-<a href="https://stackoverflow.com/users/14475852/chandan"><img src="https://stackoverflow.com/users/flair/14475852.png" width="208" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/14475852/chandan"><img src="https://stackoverflow.com/users/flair/14475852.png?theme=dark" width="208" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 <!--
 <p>&nbsp;<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" width="354" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14475852&theme=dark" alt="chandanchainani" /></a></p>
