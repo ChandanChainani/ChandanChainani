@@ -13,7 +13,9 @@
 -->
 <a href="https://www.linkedin.com/in/chandanchainani1/" target="blank"><img align="center" src="https://img.shields.io/badge/-ChandanChainani-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/chandanchainani1/" /></a>
 <a href="mailto:chainanichan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/chainanichan@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="chainanichan@gmail.com" /></a>
+<!--
 <a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" alt="https://stackoverflow.com/users/14475852/chandan" src="https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverflow&logo=stackoverflow"></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -58,7 +60,10 @@
 </p>
 
 <p>&nbsp;<img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" /></p>
-<p>&nbsp;<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" width="354" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14475852&theme=dark" alt="chandanchainani" /></a></p>
+<p>
+<a href="https://stackoverflow.com/users/14475852/chandan"><img src="https://stackoverflow.com/users/flair/14475852.png" width="208" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
 <!--
+<p>&nbsp;<a href="https://stackoverflow.com/users/14475852/chandan?tab=profile" target="blank"><img align="center" width="354" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14475852&theme=dark" alt="chandanchainani" /></a></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanchainani&" alt="chandanchainani" /></p>
 -->
