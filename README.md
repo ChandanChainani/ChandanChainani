@@ -10,19 +10,17 @@
   </a>
 </p>
 -->
-<p align="center">
-  <span>
-    <img align="left" width="339" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchainani&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chandanchainani" />
-  </span>
-  <span>&nbsp;
-    <img align="center" width="271" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" />
-  </span>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/14475852/chandan">
-      <img src="https://stackoverflow.com/users/flair/14475852.png?theme=dark" width="192" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-    </a>
-  </span>
-<p>
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchainani&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chandanchainani" />
+</span>
+<span>&nbsp;
+  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" />
+</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14475852/chandan">
+    <img src="https://stackoverflow.com/users/flair/14475852.png?theme=dark" width="208" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
+</span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--
