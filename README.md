@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Chandan Chainani</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=chandanchainani&label=Profile%20views&color=0e75b6&style=flat" alt="chandanchainani" />
 </p>
+<!--
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=chandanchainani&theme=algolia" alt="chandanchainani" />
   </a>
 </p>
+-->
+<span>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchainani&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chandanchainani" />
+</span>
+<span>&nbsp;
+  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" />
+</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14475852/chandan">
+    <img src="https://stackoverflow.com/users/flair/14475852.png?theme=dark" width="208" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
+</span>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--
@@ -131,17 +144,6 @@
   </a>
   <a href="https://redis.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandanchainani&hide=javascript,html,css,php,vue,scss&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chandanchainani" />
-</p>
-<p>&nbsp;
-  <img align="center" width="424" src="https://github-readme-stats.vercel.app/api?username=chandanchainani&show_icons=true&locale=en&card_width=42&theme=algolia" alt="chandanchainani" />
-</p>
-<p>
-  <a href="https://stackoverflow.com/users/14475852/chandan">
-    <img src="https://stackoverflow.com/users/flair/14475852.png?theme=dark" width="208" height="58" alt="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Chandan at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
   </a>
 </p>
 <!--
